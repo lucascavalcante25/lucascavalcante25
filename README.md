@@ -7,7 +7,7 @@ Bem vindo ao meu perfil, eu sou Lucas Cavalcante!
 
 📑 Stacks no qual tenho conhecimento são: Java 8+ | JSF com PrimeFaces, JS | SQL, PostgreSQL, DB2, IBM Data Studio | Git, Eclipse SVN | Websphere Ap. Service, Jenkins.
 
-🌱 Estou estudando atualmente  e Doker.
+🌱 Estou estudando atualmente desenvolvimento de apis rest full.
 
 <div>
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
