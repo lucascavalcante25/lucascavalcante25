@@ -1,6 +1,6 @@
 Bem vindo ao meu perfil, eu sou Lucas Cavalcante!
 
-🔭 Hoje trabalho como Analista e Desenvolvedor Full-stack.
+🔭 Hoje trabalho na SEFAZ-CE como Analista de Sistemas III.
 
 📚 Formado em análise e desenvolvimento de Sistemas pela UniAteneu.
 📚 Pós Graduado em Especialista em Desenvolvimento Web Full-Stack na PUC Minas Virtual.
