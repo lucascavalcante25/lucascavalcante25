@@ -1,21 +1,27 @@
-Bem vindo ao meu perfil, eu sou Lucas Cavalcante!
+Bem-vindo ao meu perfil, eu sou Lucas Cavalcante! 👋
 
-🔭 Hoje trabalho na SEFAZ-CE como Analista de Sistemas III.
+🔭 Atualmente trabalho na SEFAZ-CE como **Analista de Sistemas III**.
 
-📚 Formado em análise e desenvolvimento de Sistemas pela UniAteneu.
-📚 Pós Graduado em Especialista em Desenvolvimento Web Full-Stack na PUC Minas Virtual.
+📚 Sou formado em **Análise e Desenvolvimento de Sistemas** pela UniAteneu  
+🎓 Pós-graduado como **Especialista em Desenvolvimento Web Full-Stack** pela PUC Minas Virtual.
 
-📑 Stacks no qual tenho conhecimento são: Java 8+ | JSF com PrimeFaces, JS | SQL, PostgreSQL, DB2, IBM Data Studio | Git, Eclipse SVN | Websphere Ap. Service, Jenkins.
+💻 Stacks nas quais atuo e tenho conhecimento:
+Java 8+ | Spring | JSF com PrimeFaces | Angular | JavaScript | TypeScript | PostgreSQL | DB2 | SQL | REST APIs | SOAP | Git | Jenkins | Eclipse | DBeaver | WebSphere App Service | OpenShift | SoapUI
 
-🌱 Estou estudando atualmente desenvolvimento de apis rest full.
+🚀 Atualmente estudando aprofundamento em desenvolvimento de **APIs RESTful** e arquitetura de microsserviços com foco em escalabilidade e integração contínua.
+
+---
 
 <div>
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" />
 </div>
