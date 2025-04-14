@@ -23,5 +23,5 @@ Java 8+ | Spring | JSF com PrimeFaces | Angular | JavaScript | TypeScript | Post
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openshift/openshift-original.svg" />
+  <img height="30em" src="/assets/icons/openshift.svg" alt="OpenShift" />
 </div>
